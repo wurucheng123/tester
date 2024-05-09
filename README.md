@@ -4,6 +4,8 @@
 # tester
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/wurucheng123/tester/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/wurucheng123/tester/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of tester is to Learn how to develop an R package
