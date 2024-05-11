@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/wurucheng123/tester/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/wurucheng123/tester/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/wurucheng123/tester/branch/main/graph/badge.svg)](https://app.codecov.io/gh/wurucheng123/tester?branch=main)
 <!-- badges: end -->
 
 The goal of tester is to Learn how to develop an R package
